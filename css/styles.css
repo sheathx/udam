@@ -1,31 +1,16 @@
-body {
-    background-color:#eaf6f6;
-}
-hr {
-    background-color: #eaf6f6;
-    border-style: none none dotted none ;
-    border-bottom-color: grey;
-    border-width: 5px;
-    width: 3%;
-}
-img {
-    height: 150px;
-}
-h1 {
-    color: #66BFBF;
-    
-}
-h3{
-    color: #66BFBF;
-}
-a:visited {
-    color: #66BFBF;
-    background-color: transparent;
-    text-decoration: none;
-}
-a:link {
-    color: #66BFBF;
-    background-color: transparent;
-    text-decoration: none;
+/*----------------Tag Selectors----------------*/
+
+div{
+    background-color: #e4f9f5;
 }
 
+body{
+    margin:0px;
+
+}
+
+/*----------------Tag Selectors----------------*/
+
+.Name{
+    margin-top:0;
+}
